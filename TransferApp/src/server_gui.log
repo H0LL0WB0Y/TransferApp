@@ -1,0 +1,103 @@
+[2026-11-05 13:51:05] [INFO] Sistema listo. IP detectada: 172.50.5.237
+[2026-11-05 13:51:15] [INFO] Servidor iniciado correctamente.
+[2026-11-05 13:51:15] [INFO] Error al iniciar servidor: Address already in use: bind
+[2026-11-05 13:51:15] [INFO] Error al iniciar servidor: Address already in use: bind
+[2026-11-05 13:51:24] [INFO] Servidor detenido.
+[2026-11-05 13:54:08] [INFO] Sistema listo. IP detectada: 172.50.5.237
+[2026-11-05 13:54:11] [INFO] Servidor iniciado correctamente.
+[2026-11-05 13:54:11] [INFO] Servidor iniciado en puerto 9090
+[2026-11-05 13:54:11] [INFO] Servidor iniciado en puerto 9090
+[2026-11-05 13:54:11] [INFO] Archivos se guardarán en: recibidos
+[2026-11-05 13:54:11] [INFO] Archivos se guardarán en: recibidos
+[2026-11-05 13:54:11] [INFO] Esperando conexiones...
+
+[2026-11-05 13:54:11] [INFO] Esperando conexiones...
+
+[2026-11-05 13:54:16] [INFO] Servidor detenido.
+[2026-11-05 13:54:16] [INFO] Servidor detenido.
+[2026-11-05 13:54:16] [INFO] Error al iniciar servidor: Socket closed
+[2026-11-05 13:54:16] [INFO] Servidor detenido.
+[2026-11-05 13:54:16] [INFO] Error al iniciar servidor: Socket closed
+[2026-11-05 13:57:56] [INFO] Sistema listo. IP detectada: 172.50.5.237
+[2026-11-05 13:57:59] [INFO] Servidor iniciado correctamente.
+[2026-11-05 13:57:59] [INFO] Servidor iniciado en puerto 9090
+[2026-11-05 13:57:59] [INFO] Servidor iniciado en puerto 9090
+[2026-11-05 13:57:59] [INFO] Archivos se guardarán en: recibidos
+[2026-11-05 13:57:59] [INFO] Archivos se guardarán en: recibidos
+[2026-11-05 13:57:59] [INFO] Esperando conexiones...
+
+[2026-11-05 13:57:59] [INFO] Esperando conexiones...
+
+[2026-11-05 13:58:02] [INFO] Deteniendo servidor...
+[2026-11-05 13:58:02] [INFO] Deteniendo servidor...
+[2026-11-05 13:58:02] [INFO] Servidor detenido.
+[2026-11-05 13:58:02] [INFO] Error al iniciar servidor: Socket closed
+[2026-11-05 13:58:02] [INFO] Error al iniciar servidor: Socket closed
+[2026-11-05 13:58:29] [INFO] Sistema listo. IP detectada: 172.50.5.237
+[2026-11-05 13:58:32] [INFO] Servidor iniciado correctamente.
+[2026-11-05 13:58:32] [INFO] Servidor iniciado en puerto 9090
+[2026-11-05 13:58:32] [INFO] Servidor iniciado en puerto 9090
+[2026-11-05 13:58:32] [INFO] Archivos se guardarán en: recibidos
+[2026-11-05 13:58:32] [INFO] Archivos se guardarán en: recibidos
+[2026-11-05 13:58:32] [INFO] Esperando conexiones...
+
+[2026-11-05 13:58:32] [INFO] Esperando conexiones...
+
+[2026-11-05 13:58:37] [INFO] Deteniendo servidor...
+[2026-11-05 13:58:37] [INFO] Deteniendo servidor...
+[2026-11-05 13:58:37] [INFO] Servidor detenido.
+[2026-11-05 13:58:37] [INFO] Error al iniciar servidor: Socket closed
+[2026-11-05 13:58:37] [INFO] Error al iniciar servidor: Socket closed
+[2026-11-05 14:06:57] [INFO] Sistema listo. IP detectada: 172.50.5.237
+[2026-11-05 14:07:00] [INFO] Servidor iniciado correctamente.
+[2026-11-05 14:07:00] [INFO] Servidor iniciado en puerto 9090
+[2026-11-05 14:07:00] [INFO] Archivos se guardarán en: recibidos
+[2026-11-05 14:07:00] [INFO] Esperando conexiones...
+
+[2026-11-05 14:07:53] [INFO] Conexión recibida de: /127.0.0.1
+[2026-11-05 14:07:53] [INFO] Se van a recibir 6 archivo(s)
+[2026-11-05 14:07:53] [INFO] [1/6] CORTAR_SERVICIOS.txt (562 B)
+[2026-11-05 14:07:53] [INFO] Archivo guardado: CORTAR_SERVICIOS(1).txt
+[2026-11-05 14:07:53] [INFO] [2/6] Java_test.txt (2.73 KB)
+[2026-11-05 14:07:53] [INFO] Archivo guardado: Java_test(1).txt
+[2026-11-05 14:07:53] [INFO] [3/6] MedusaModa.rar (23.35 KB)
+[2026-11-05 14:07:53] [INFO] Archivo guardado: MedusaModa(1).rar
+[2026-11-05 14:07:53] [INFO] [4/6] mi_primer_juego.rar (575 B)
+[2026-11-05 14:07:53] [INFO] Archivo guardado: mi_primer_juego(1).rar
+[2026-11-05 14:07:53] [INFO] [5/6] zunmk_log1.txt (90.44 KB)
+[2026-11-05 14:07:53] [INFO] Archivo guardado: zunmk_log1.txt
+[2026-11-05 14:07:53] [INFO] [6/6] zunmk_log2.txt (60.92 KB)
+[2026-11-05 14:07:53] [INFO] Archivo guardado: zunmk_log2.txt
+[2026-11-05 14:07:53] [INFO] Recibidos 6 archivo(s) correctamente
+[2026-11-05 14:08:06] [INFO] Deteniendo servidor...
+[2026-11-05 14:08:06] [INFO] Servidor detenido.
+[2026-11-05 14:08:06] [INFO] Error al iniciar servidor: Socket closed
+[2026-11-05 15:22:18] [INFO] Sistema listo. IP detectada: 172.50.5.237
+[2026-11-05 15:22:20] [INFO] Servidor iniciado correctamente.
+[2026-11-05 15:22:21] [INFO] Servidor iniciado en puerto 9090
+[2026-11-05 15:22:21] [INFO] Archivos se guardarán en: recibidos
+[2026-11-05 15:22:21] [INFO] Esperando conexiones...
+
+[2026-11-05 15:22:48] [INFO] Conexión recibida de: /127.0.0.1
+[2026-11-05 15:22:48] [INFO] Se van a recibir 6 archivo(s)
+[2026-11-05 15:22:48] [INFO] [1/6] CORTAR_SERVICIOS.txt (562 B)
+[2026-11-05 15:22:48] [INFO] Archivo guardado: CORTAR_SERVICIOS(2).txt
+[2026-11-05 15:22:48] [INFO] [2/6] Java_test.txt (2.73 KB)
+[2026-11-05 15:22:48] [INFO] Archivo guardado: Java_test(2).txt
+[2026-11-05 15:22:48] [INFO] [3/6] MedusaModa.rar (23.35 KB)
+[2026-11-05 15:22:48] [INFO] Archivo guardado: MedusaModa(2).rar
+[2026-11-05 15:22:48] [INFO] [4/6] mi_primer_juego.rar (575 B)
+[2026-11-05 15:22:48] [INFO] Archivo guardado: mi_primer_juego(2).rar
+[2026-11-05 15:22:48] [INFO] [5/6] zunmk_log1.txt (90.44 KB)
+[2026-11-05 15:22:48] [INFO] Archivo guardado: zunmk_log1(1).txt
+[2026-11-05 15:22:48] [INFO] [6/6] zunmk_log2.txt (60.92 KB)
+[2026-11-05 15:22:48] [INFO] Archivo guardado: zunmk_log2(1).txt
+[2026-11-05 15:22:48] [INFO] Recibidos 6 archivo(s) correctamente
+[2026-11-05 15:22:53] [INFO] Deteniendo servidor...
+[2026-11-05 15:22:53] [INFO] Servidor detenido.
+[2026-11-05 15:22:53] [INFO] Servidor detenido.
+[2026-11-05 15:27:00] [INFO] Sistema listo. IP detectada: 172.50.5.237
+[2026-11-05 15:27:02] [INFO] Servidor iniciado correctamente.
+[2026-11-05 15:27:02] [INFO] Error al iniciar servidor: Address already in use: bind
+[2026-11-05 15:27:44] [INFO] Deteniendo servidor...
+[2026-11-05 15:27:44] [INFO] Servidor detenido.

@@ -1,0 +1,16 @@
+[2026-11-05 11:47:06] [INFO] Carpeta creada: recibidos
+[2026-11-05 11:47:06] [INFO] Servidor iniciado en puerto 9090
+[2026-11-05 11:47:06] [INFO] Archivos se guardarán en: recibidos
+[2026-11-05 11:47:06] [INFO] Esperando conexiones...
+
+[2026-11-05 11:48:00] [INFO] Conexión recibida de: /127.0.0.1
+[2026-11-05 11:48:00] [INFO] Se van a recibir 4 archivo(s)
+[2026-11-05 11:48:00] [INFO] [1/4] CORTAR_SERVICIOS.txt (562 B)
+[2026-11-05 11:48:00] [INFO] Archivo guardado: CORTAR_SERVICIOS.txt
+[2026-11-05 11:48:00] [INFO] [2/4] Java_test.txt (2.73 KB)
+[2026-11-05 11:48:00] [INFO] Archivo guardado: Java_test.txt
+[2026-11-05 11:48:00] [INFO] [3/4] MedusaModa.rar (23.35 KB)
+[2026-11-05 11:48:00] [INFO] Archivo guardado: MedusaModa.rar
+[2026-11-05 11:48:00] [INFO] [4/4] mi_primer_juego.rar (575 B)
+[2026-11-05 11:48:00] [INFO] Archivo guardado: mi_primer_juego.rar
+[2026-11-05 11:48:00] [INFO] Recibidos 4 archivo(s) correctamente
